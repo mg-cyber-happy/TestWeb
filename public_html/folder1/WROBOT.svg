@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="WROBOT.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.73139029"
+     inkscape:cx="358.22187"
+     inkscape:cy="442.3083"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="396.22767"
+       y="693.9985"
+       width="11.001605"
+       height="41.417453"
+       id="rect25" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 148.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       id="perspective17" />
+  </defs>
+  <g
+     inkscape:label="Slānis 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g25"
+       transform="matrix(0.71607216,0,0,0.73094505,44.68031,-18.171184)">
+      <ellipse
+         style="fill:#d5f6ff;stroke-width:0;stroke-linecap:square;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="path1-9"
+         cx="103.67342"
+         cy="174.08824"
+         rx="66.184853"
+         ry="63.978691" />
+      <path
+         id="rect23"
+         style="fill:#cccccc;stroke-width:0;stroke-linecap:square;paint-order:markers stroke fill"
+         d="M 59.006918,198.85125 73.66484,199.21816 78.379769,297 H 53.603767 Z"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         id="g17"
+         transform="matrix(1.1889085,-0.99334419,1.0353816,1.1452657,-117.38853,256.61824)">
+        <ellipse
+           style="fill:#cccccc;stroke-width:0;stroke-linecap:square;stroke-dasharray:none;paint-order:markers stroke fill"
+           id="path2"
+           cx="80.852005"
+           cy="45.40012"
+           rx="33.823994"
+           ry="5.6071863"
+           inkscape:transform-center-x="33.765425"
+           inkscape:transform-center-y="-0.18880435" />
+        <ellipse
+           style="fill:#cccccc;stroke-width:0;stroke-linecap:square;stroke-dasharray:none;paint-order:markers stroke fill"
+           id="ellipse12"
+           cx="80.852005"
+           cy="45.40012"
+           rx="33.823994"
+           ry="5.6071863"
+           inkscape:transform-center-x="33.765425"
+           inkscape:transform-center-y="-0.18880435" />
+        <ellipse
+           style="fill:#cccccc;stroke-width:0;stroke-linecap:square;stroke-dasharray:none;paint-order:markers stroke fill"
+           id="ellipse14"
+           cx="11.823499"
+           cy="-114.80624"
+           rx="33.823994"
+           ry="5.6071863"
+           inkscape:transform-center-x="-0.18880626"
+           inkscape:transform-center-y="-33.765425"
+           transform="rotate(90)" />
+        <ellipse
+           style="fill:#cccccc;stroke-width:0;stroke-linecap:square;stroke-dasharray:none;paint-order:markers stroke fill"
+           id="ellipse15"
+           cx="-148.38286"
+           cy="-45.777729"
+           rx="33.823994"
+           ry="5.6071863"
+           inkscape:transform-center-x="-33.765428"
+           inkscape:transform-center-y="0.18880531"
+           transform="scale(-1)" />
+        <ellipse
+           style="fill:#cccccc;stroke-width:0;stroke-linecap:square;stroke-dasharray:none;paint-order:markers stroke fill"
+           id="ellipse16"
+           cx="-79.354355"
+           cy="114.42863"
+           rx="33.823994"
+           ry="5.6071863"
+           inkscape:transform-center-x="0.18880326"
+           inkscape:transform-center-y="33.765431"
+           transform="rotate(-90)" />
+        <ellipse
+           style="fill:#cccccc;stroke-width:0;stroke-linecap:square;stroke-dasharray:none;paint-order:markers stroke fill"
+           id="ellipse17"
+           cx="-79.354355"
+           cy="114.42863"
+           rx="33.823994"
+           ry="5.6071863"
+           inkscape:transform-center-x="0.18880326"
+           inkscape:transform-center-y="33.765431"
+           transform="rotate(-90)" />
+      </g>
+      <ellipse
+         style="fill:#999999;stroke-width:0;stroke-linecap:square;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="path23"
+         cx="65.791985"
+         cy="195.25302"
+         rx="8.2779417"
+         ry="8.3131571" />
+      <ellipse
+         style="fill:#e6e6e6;stroke-width:0;stroke-linecap:square;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="path23-5"
+         cx="65.791985"
+         cy="195.25302"
+         rx="4.4897418"
+         ry="4.4793425" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.842px;font-family:Elephant;-inkscape-font-specification:Elephant;fill:#000000;stroke-width:0;stroke-linecap:square;stroke-dasharray:none;paint-order:markers stroke fill"
+         x="-49.950615"
+         y="228.49675"
+         id="text24"
+         transform="matrix(0.90227336,-0.73613901,0.54287623,0.66539439,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan24"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Elephant;-inkscape-font-specification:Elephant;fill:#000000;stroke-width:0"
+           x="-49.950615"
+           y="228.49675">WROBOT</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text25"
+       style="fill:#ececec;stroke-width:0;stroke-linecap:square;paint-order:markers stroke fill;stroke-dasharray:0, 0;-inkscape-font-specification:Elephant;font-family:Elephant;font-size:7.33333333px;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;white-space:pre;shape-inside:url(#rect25)" />
+  </g>
+</svg>
