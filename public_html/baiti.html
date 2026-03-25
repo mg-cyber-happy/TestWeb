@@ -10,6 +10,27 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/html.html to edit this
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
-        <div>TODO write content</div>
+      <script>
+            const KiB_sekundes = 25000 / 8; 
+            const KB_sekundes = 24414.0625 / 8; 
+        </script>
+        <form>
+            <label for="sekundes">Aprēķināt cik daudz informācijs var lejuplādēt</label>
+            <br>
+            <br>
+            <br><!-- <br> -->
+            <input name="sekundes" id="sekundes" onfocus="document.querySelector('form').reset()"/>
+            <label for="sekundes" value="">sekundēs, ja interneta ātrums ir 25mbps</label>
+            <br>
+            <br>
+            <label for="atbilde">Atbilde:</label>
+            <br>
+             <br>
+            <input name="atbilde" id="atbilde"/>
+            <input name="vieniba" id="kib" type="radio" value="kib" onclick="atbilde.value = KB_sekundes * Number(sekundes.value)"/>
+            <label for="kib">KiB</label>
+            <input name="vieniba" id="kb" type="radio" value="kib" onclick="atbilde.value = KiB_sekundes * Number(sekundes.value)"/>
+            <label for="kb">KB</label>
+        </form>
     </body>
 </html>
